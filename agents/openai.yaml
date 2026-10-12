@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean Dev"
+  short_description: "Minimal, convergent, evidence-driven development"
+  default_prompt: "Use $lean-dev to complete this task with minimal scope, convergent debugging, and verified delivery."
